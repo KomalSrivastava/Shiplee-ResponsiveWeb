@@ -10,10 +10,8 @@ Welcome to **Shiplee Franchise Opportunity** – a franchise opportunity landing
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ---
 
