@@ -38,7 +38,7 @@ Welcome to **Shiplee Franchise Opportunity** – a franchise opportunity landing
 - **HTML**: Structuring the content of the webpage.
 - **CSS**: Styling, responsive design, and animations.
 - **JavaScript**: Adds interactivity such as the dark mode toggle, scroll-to-top, and accordion functionality.
-- **Font Awesome**: Provides icons for the dark mode toggle.
+- **Font Awesome**: Provides icons for the dark mode toggle..
 
 ## Setup and Installation
 
