@@ -1,6 +1,6 @@
 # Shiplee Franchise Opportunity
 
-Welcome to **Shiplee Franchise Opportunity** – a franchise opportunity landing page designed to attract potential franchisees to join the Shiplee network. This webpage showcases the benefits of joining Shiplee as a franchise and provides a seamless user experience across devices..
+Welcome to **Shiplee Franchise Opportunity** – a franchise opportunity landing page designed to attract potential franchisees to join the Shiplee network. This webpage showcases the benefits of joining Shiplee as a franchise and provides a seamless user experience across devices...
 
 ---
 
