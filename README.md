@@ -23,7 +23,7 @@ Welcome to **Shiplee Franchise Opportunity** – a franchise opportunity landing
 - **Scroll to Top Button**: Provides a smooth scroll-to-top button for easy navigation.
 - **Franchise Benefits Table**: Highlights the key benefits of becoming a Shiplee franchise partner.
 - **Partner Section**: Features logos of existing Shiplee partners.
-- **Hero Section**: Engaging call-to-action section that encourages sign-ups.
+- **Hero Section**: Engaging call-to-action section that encourages sign-ups..
 
 ## Screenshots
 
