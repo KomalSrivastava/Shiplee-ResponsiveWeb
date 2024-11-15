@@ -18,7 +18,7 @@ Welcome to **Shiplee Franchise Opportunity** – a franchise opportunity landing
 ## Features
 
 - **Dark Mode Toggle**: Allows users to switch between light and dark themes for better readability..
-- **Responsive Design**: Optimized layout for mobile, tablet, and desktop views.
+- **Responsive Design**: Optimized layout for mobile, tablet, and desktop views..
 - **Accordion Section**: Displays additional information in expandable sections to improve page organization.
 - **Scroll to Top Button**: Provides a smooth scroll-to-top button for easy navigation.
 - **Franchise Benefits Table**: Highlights the key benefits of becoming a Shiplee franchise partner.
